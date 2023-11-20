@@ -1,0 +1,8 @@
+Scheduling.class
+RoundRobin.class
+SortByArrival.class
+PriorityNonPreemptive.class
+SJF.class
+SortByPriority.class
+FCFS.class
+Process.class
